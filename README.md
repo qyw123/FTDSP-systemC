@@ -1,1 +1,1 @@
-# systemc module of FT-DSP
+# Systemc Module of FT-DSP
