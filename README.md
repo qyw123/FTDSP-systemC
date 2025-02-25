@@ -1,1 +1,1 @@
-# image_attention_rtl_classifiction
+# systemc module of FT-DSP
